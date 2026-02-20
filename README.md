@@ -8,8 +8,7 @@
 - I was curious and wanted to see how fast I could implement this interpreter/emulator with the help of AI agents. This was my experience
  
  # How I started
-- I started out by letting the agent create a implementation plan, which I then created in a dedicated file, you can find here in this repo (implementation_plan.md). I did modify some aspects, because it added requirements I didn't deem necessary for my use case and also some private references in my system, but generally this was what I worked with. 
-- 
+- I started out by letting the agent create a implementation plan, which I then created in a dedicated file, you can find here in this repo (implementation_plan.md). I did modify some aspects, because it added requirements I didn't deem necessary for my use case and also some private references in my system, but generally this was what I worked with.
  
  # Experience/Final Result
  - I was kinda impressed. I got the emulator running in about 20 minutes.
